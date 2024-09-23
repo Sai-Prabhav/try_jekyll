@@ -31,7 +31,7 @@ url: https://Sai-Prabhav.github.io # the base hostname & protocol for your site,
 twitter_username: jekyllrb
 github_username:  jekyll
 
-remote_theme: pages-themes/dinky@v0.2.0
+# remote_theme: pages-themes/dinky@v0.2.0
 # Build settings
 theme: minima 
 plugins:
